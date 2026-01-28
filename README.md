@@ -1,4 +1,4 @@
-# Ice Cream Revenue Prediction 🍦
+# Ice Cream Revenue Prediction
 
 This project predicts ice cream revenue based on temperature using a Linear Regression model.
 
